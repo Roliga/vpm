@@ -1,7 +1,7 @@
 {
     "name":"Roliga's VPM Repository",
     "id":"ga.roli.vpm",
-    "url":"https://roliga.github.io/vpm/index.json",
+    "url":"https://vpm.roli.ga/index.json",
     "author":{
         "name":"Roliga",
         "url":"https://roli.ga/"
@@ -11,7 +11,7 @@
         "url":"https://github.com/Roliga/vpm",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
         "roliga/unity-utils"
     ]
